@@ -1,0 +1,113 @@
+.header
+{
+	background:#F8FBFD;
+}
+
+.logo
+{
+	width:40%;
+	float:right;
+}
+.caption
+{
+	text-align:center;
+	color:#3BA1E5;
+}
+.banner img
+{
+	width:100%;
+}
+.college
+{
+	width:100%;
+}
+.content p
+{
+	font-family:palatino linotype;
+	font-size:1.3rem;
+	padding:5%;
+	color:#3BA1E5;
+	text-align:center;
+}
+.about h1
+{
+	text-align:center;
+	color:#3BA1E5;
+}
+.about p
+{
+	font-size:1.5rem;
+	text-align:center;
+	padding:2.5%;
+	color:#3BA1E5;
+}
+.buttons button
+{
+	width:40%;
+	text-align:center;
+	background:#3BA1E5;
+	padding:1%;
+	color:white;
+	font-weight:bold;
+	font-size:1rem;
+}
+h1,h2
+{
+	color:#3BA1E5;
+}
+input
+{
+	width:45%;
+	background:#69C2FC;
+	color:white;
+	font-weight:bold;
+	padding:1%;
+	margin-top:1%;
+	border:1px solid #69C2FC;
+}
+.text-center
+{
+	text-align:center;
+}
+.padding-small
+{
+	padding:5%;
+}
+.img-fit-small img
+{
+	width:50%;
+	border-radius:100%;
+}
+.width-full
+{
+	width:100%;
+}
+.border-light
+{
+	border:1px solid black;
+	color:#3BA1E5;
+	font-weight:bold;
+}
+table
+{
+	width:100%;
+}
+.height-normal
+{
+	height:150px;
+}
+.text-normal
+{
+	font-size:1.2rem;
+}
+.hod_stu_table td, .hod_stu_table th
+{
+	border:1px solid black;
+	text-align:left;
+	padding:0.5%;
+}
+.send_btn
+{
+	background:#44B4FD;
+	color:#ACDDFD;
+}

@@ -1,0 +1,92 @@
+.dez-col-10,.dez-col-15,.dez-col-20,.dez-col-25,.dez-col-30,.dez-col-35,.dez-col-40,.dez-col-45,.dez-col-50,.dez-col-55,.dez-col-60,.dez-col-65,.dez-col-70,.dez-col-75,.dez-col-80,.dez-col-85,.dez-col-90,.dez-col-95,.dez-col-100
+{
+	padding:0.5%;
+	height:auto;
+/* 	box-shadow:0px 0px 2px #000000;*/
+	float:left;
+	overflow:hidden;
+}
+.dez-col-10
+{
+	width:9%;
+}
+.dez-col-15
+{
+	width:14%;
+}
+.dez-col-20
+{
+	width:19%;
+}
+.dez-col-25
+{
+	width:24%;
+}
+.dez-col-30
+{
+	width:29%;
+}
+.dez-col-35
+{
+	width:34%;
+}
+.dez-col-40
+{
+	width:39%;
+}
+.dez-col-45
+{
+	width:44%;
+}
+.dez-col-50
+{
+	width:49%;
+}
+.dez-col-55
+{
+	width:54%;
+}
+.dez-col-60
+{
+	width:59%;
+}
+.dez-col-65
+{
+	width:64%;
+}
+.dez-col-70
+{
+	width:69%;
+}
+.dez-col-75
+{
+	width:74%;
+}
+.dez-col-80
+{
+	width:79%;
+}
+.dez-col-85
+{
+	width:84%;
+}
+.dez-col-90
+{
+	width:89%;
+}
+.dez-col-95
+{
+	width:94%;
+}
+.dez-col-100
+{
+	width:99%;
+}
+@media only screen and (max-width:600px)
+{
+.dez-col-10,.dez-col-15,.dez-col-20,.dez-col-25,.dez-col-30,.dez-col-35,.dez-col-40,.dez-col-45,.dez-col-50,.dez-col-55,.dez-col-60,.dez-col-65,.dez-col-70,.dez-col-75,.dez-col-80,.dez-col-85,.dez-col-90,.dez-col-95,.dez-col-100
+{
+width:99%;
+}
+	
+}
